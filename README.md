@@ -4,6 +4,8 @@
 
 # CopyClaw
 
+> **⚠️ Notice: Quantish is winding down.** The Quantish platform (quantish.live) is shutting down. This project is no longer being maintained. For real-time prediction market data infrastructure, check out [polynode.dev](https://polynode.dev).
+
 A [Claude Code skill](https://code.claude.com/docs/en/skills) for copy trading on Polymarket. Mirror any trader's buys and sells automatically with sub-2-second execution.
 
 ## What It Does
